@@ -24,15 +24,14 @@ Les objectifs visés par ce projet sont les suivants : <br>
  - Concevoir un Dashboard sur Power BI
 
 # <u> Partie 2 : Résultats</u>
-Les fichiers étant très volumineux, ils sont tous accessibles via ce [lien](https://drive.google.com/drive/folders/1Cqe-5qjUciKeXfKNSBtV-fKD0J6ltE2g?usp=sharing).
+Les fichiers étant très volumineux, le Dashboard ainsi que le fichier de nettoyage à l'aide de Python sont tous accessibles via ce [lien](https://drive.google.com/drive/folders/1Cqe-5qjUciKeXfKNSBtV-fKD0J6ltE2g?usp=sharing).
 
 ## <a name="C3"><u>2.1 Conception de la base de données</u></a>
 La base de données à été réalisée sur Microsoft SQL Server 2019. Les requêtes SQL sont accessibles [ici](https://github.com/kodjosteve/Analyse_valeurs_foncieres_France/blob/main/R%C3%A9sultats/Requ%C3%AAtes%20SQL%20Data_Immo.sql).<br>
-La capture d'écran ci-dessous présente un aperçu de la base de données.<br>
+La capture d'écran ci-dessous présente un aperçu de la base de données.<br><br>
 ![](https://github.com/kodjosteve/Analyse_valeurs_foncieres_France/blob/main/R%C3%A9sultats/SQLServer_R%C3%A9sultats_requete11.png)
 ## <a name="C4"><u>2.2 Conception du Dashboard</u></a>
-Le Dashboard a été réalisé sur Microsoft Power BI et est accessible ici.<br>
-Les deux captures suivantes présentent un aperçu des deux pages réalisées dans Power BI : <br>
+Le Dashboard a été réalisé sur Microsoft Power BI et est accessible.Les deux captures suivantes présentent un aperçu des deux pages réalisées dans Power BI : <br>
 #### Vue Région-Département <br>
 ![](https://github.com/kodjosteve/Analyse_valeurs_foncieres_France/blob/main/R%C3%A9sultats/PowerBI_Capture_Dashboard_Region_d%C3%A9partement.png)<br>
 #### Vue Commune <br>
