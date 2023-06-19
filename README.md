@@ -1,5 +1,6 @@
 # Analyse des valeurs foncieres en France
-## Sommaire :
+Le projet a pour but d'étudier l'ensemble des ventes immobilières (appartements et maisons) réalisées en France sur une période données.
+## Sommaire
  **Partie 1 : Introduction**
  - 1.1 Contexte
  - 1.2 Objectifs
