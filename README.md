@@ -1,8 +1,8 @@
 # Analyse des valeurs foncieres en France
 ## Sommaire :
  **Partie 1 : Introduction**
- - <a id="1.1">1.1 Contexte</a>
- - <a href="#C1">1.2 Objectifs</a>
+ - <a href="#C1">1.1 Contexte</a>
+ - <a href="#C2">1.2 Objectifs</a>
   
 **Partie 2 : Résultats**
  - <a href="#C2">2.1 Base de données</a>
@@ -10,7 +10,7 @@
  
 # <u> Partie 1 : Introduction</u>
 
-## <a href="#1.1"><u>1.1 Contexte</u></a>
+## <a name="C1"><u>1.1 Contexte</u></a>
  Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immobilières.
  Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
 <br>Dans ce cadre, il vous a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
