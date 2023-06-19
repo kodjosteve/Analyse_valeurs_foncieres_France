@@ -16,6 +16,7 @@ Le projet a pour but d'étudier l'ensemble des ventes immobilières (appartement
  <br><br>Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immobilières.
  Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
 <br>Dans ce cadre, il vous a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
+<br>Des requêtes spécifiques ont été demandées par le directeur. Elles sont accessibles [ici](https://github.com/kodjosteve/Analyse_valeurs_foncieres_France/blob/main/Donn%C3%A9es%20d'entr%C3%A9e/Listes%20des%20requ%C3%AAtes%20demand%C3%A9es%20par%20le%20directeur.png).
 <br><br>Les données foncières et géographiques sont issues respectivement des sites [demandes de valeurs foncières](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/) et [référentiel géographique](https://www.data.gouv.fr/fr/datasets/referentiel-geographique-francais-communes-unites-urbaines-aires-urbaines-departements-academies-regions/) du gouvernement français.
 <br>Les fichiers csv une fois téléchargés sont nettoyés et servent de base pour concevoir la base de données et le Dashboard.
 
@@ -34,7 +35,7 @@ La capture d'écran ci-dessous présente un aperçu de la base de données.<br><
 ![](https://github.com/kodjosteve/Analyse_valeurs_foncieres_France/blob/main/R%C3%A9sultats/SQLServer_R%C3%A9sultats_requete11.png)
 
 ## <u>2.2 Conception du Dashboard</u>
-Le Dashboard a été réalisé sur Microsoft Power BI et est accessible.Les deux captures suivantes présentent un aperçu des deux pages réalisées dans Power BI : <br>
+Le Dashboard a été réalisé sur Microsoft Power BI et est accessible. Les deux captures suivantes présentent un aperçu des deux pages réalisées : <br>
 #### Vue Région-Département <br>
 ![](https://github.com/kodjosteve/Analyse_valeurs_foncieres_France/blob/main/R%C3%A9sultats/PowerBI_Capture_Dashboard_Region_d%C3%A9partement.png)<br>
 #### Vue Commune <br>
