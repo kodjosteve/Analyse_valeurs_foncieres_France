@@ -19,8 +19,7 @@
  Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immobilières.
  Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
 <br>Dans ce cadre, il vous a confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
----
-Les données foncières et géographiques sont issues respectivement des sites [demandes de valeurs foncières](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/) et [référentiel géographique](https://www.data.gouv.fr/fr/datasets/referentiel-geographique-francais-communes-unites-urbaines-aires-urbaines-departements-academies-regions/) du gouvernement français.
+<br>Les données foncières et géographiques sont issues respectivement des sites [demandes de valeurs foncières](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/) et [référentiel géographique](https://www.data.gouv.fr/fr/datasets/referentiel-geographique-francais-communes-unites-urbaines-aires-urbaines-departements-academies-regions/) du gouvernement français.
 
 
 ## <a name="C2"><u>1.2 Objectifs</u></a>
