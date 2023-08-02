@@ -27,7 +27,8 @@ Les objectifs visés par ce projet sont les suivants : <br>
  - Concevoir un Dashboard sur Power BI
 
 # <u> Partie 2 : Résultats</u>
-Les fichiers étant très volumineux, le Dashboard ainsi que le fichier de nettoyage à l'aide de Python sont tous accessibles via ce [lien](https://drive.google.com/drive/folders/1Cqe-5qjUciKeXfKNSBtV-fKD0J6ltE2g?usp=sharing).
+Le Dashboard est accessible via ce [lien](https://app.powerbi.com/view?r=eyJrIjoiNzE5OTE0MjEtYWI5Zi00NmZkLThiYjgtYWRmN2U0MTlmMjgzIiwidCI6IjFhMTU4ZmM3LWQwNGMtNDA5Yy05MjhkLWI4NWExN2U4YjI3NyJ9&pageName=ReportSection).<br>
+Les fichiers (Pyton et Pbix) de création du Dashboard étant très volumineux, ils sont tous accessibles via ce [lien](https://drive.google.com/drive/folders/1Cqe-5qjUciKeXfKNSBtV-fKD0J6ltE2g?usp=sharing).
 
 ## <u>2.1 Conception de la base de données</u>
 La base de données à été réalisée sur Microsoft SQL Server 2019. Les requêtes SQL sont accessibles [ici](https://github.com/kodjosteve/Analyse_valeurs_foncieres_France/blob/main/R%C3%A9sultats/Requ%C3%AAtes%20SQL%20Data_Immo.sql).<br>
